@@ -3,8 +3,7 @@ import React from 'react'
 import MainNavigation from './src/navigation/MainNavigaation'
 const App = () => {
   return (
-   <View><Text>hjjg</Text></View>
-
+    <MainNavigation/>
   )
 }
 
